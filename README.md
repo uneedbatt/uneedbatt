@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uneedbat</h1>
 - 🌱 I’m currently learning **C , Js**
 
+- 📫 How to reach me **uneedbat@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/userp_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="userp_01" height="30" width="40" /></a>
