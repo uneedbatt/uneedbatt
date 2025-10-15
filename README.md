@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Uneedbat</h1>
-- 🌱 I’m currently learning **C , Js**
 
 - 📫 How to reach me **uneedbat@outlook.com**
 
